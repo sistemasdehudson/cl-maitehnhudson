@@ -17,7 +17,7 @@
     'limit_memory_hard': '760000000',
     'limit_time_cpu': '60',
     'limit_time_real': '120',
-    'dbfilter': 'maritimo.maitehn',
+    'dbfilter': 'hudson.maitehn',
 
     # manifest version, if omitted it is backward compatible
     'env-ver': '2',
